@@ -1,2 +1,2 @@
 # WEvolunteer
- A dediced website for volunteers
+ A dedicated website for volunteers
